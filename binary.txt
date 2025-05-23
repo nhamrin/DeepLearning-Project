@@ -1,0 +1,1 @@
+final accuracy = 0.9839193240665032, training time = 183.33687782287598 seconds

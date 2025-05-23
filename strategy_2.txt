@@ -1,0 +1,5 @@
+high_lr: False, L2: False, trans: False, diff: False, Final accuracy = 0.8877078222949032, training time = 207.81141352653503 seconds
+high_lr: True, L2: False, trans: False, diff: False, Final accuracy = 0.8885254837830472, training time = 207.32368350028992 seconds
+high_lr: False, L2: True, trans: False, diff: False, Final accuracy = 0.874897792313982, training time = 208.08499717712402 seconds
+high_lr: False, L2: False, trans: True, diff: False, Final accuracy = 0.8533660397928591, training time = 231.75674438476562 seconds
+high_lr: False, L2: False, trans: False, diff: True, Final accuracy = 0.8868901608067593, training time = 207.96315741539001 seconds

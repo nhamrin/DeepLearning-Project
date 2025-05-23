@@ -1,0 +1,2 @@
+l = 1, test_acc = 79.45%
+l = 2, test_acc = 91.88%

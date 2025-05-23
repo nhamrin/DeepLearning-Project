@@ -1,0 +1,8 @@
+l = 1: Final accuracy = 0.8656309621150177, training time = 185.49256372451782 seconds
+l = 2: Final accuracy = 0.8833469610248024, training time = 198.21258163452148 seconds
+l = 3: Final accuracy = 0.8890705914418098, training time = 207.5600335597992 seconds
+l = 4: Final accuracy = 0.8931588988825293, training time = 218.17813158035278 seconds
+l = 5: Final accuracy = 0.8907059144180975, training time = 223.15996623039246 seconds
+l = 3, higher lr: Final accuracy = 0.8825292995366585, training time = 207.17301058769226 seconds
+l = 3, L2: Final accuracy = 0.8857999454892341, training time = 206.88083028793335 seconds
+l = 3, new transform: Final accuracy = 0.8972472063232488, training time = 231.11792922019958 seconds

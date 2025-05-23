@@ -1,0 +1,5 @@
+l = 1final accuracy = 0.7985827200872172, training time = 153.59722232818604 seconds
+l = 2final accuracy = 0.9182338511856092, training time = 159.0036916732788 seconds
+l = 3final accuracy = 0.9206868356500408, training time = 166.81101870536804 seconds
+l = 4final accuracy = 0.9266830198964295, training time = 169.520427942276 seconds
+l = 5final accuracy = 0.9264104660670482, training time = 180.8050136566162 seconds

@@ -1,0 +1,9 @@
+Optim: AdamW, Depth: 0, Acc: 0.9095, Time: 248.0449023246765
+Optim: AdamW, Depth: 1, Acc: 0.9092, Time: 244.04355692863464
+Optim: AdamW, Depth: 3, Acc: 0.4871, Time: 321.6515953540802
+Optim: SGD_L2, Depth: 0, Acc: 0.9071, Time: 243.6878137588501
+Optim: SGD_L2, Depth: 1, Acc: 0.9057, Time: 243.83822321891785
+Optim: SGD_L2, Depth: 3, Acc: 0.9174, Time: 320.4931628704071
+Optim: SGD, Depth: 0, Acc: 0.9049, Time: 679.5665912628174
+Optim: SGD, Depth: 1, Acc: 0.9032, Time: 243.34790444374084
+Optim: SGD, Depth: 3, Acc: 0.9199, Time: 307.0352647304535
